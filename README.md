@@ -1,6 +1,9 @@
 # AI-Support
 Support page for the AI plugin for Unreal Engine
 
+1) Create an issue [here](https://github.com/IamKingWaiMark/AI-Support/issues).
+2) Email kingmark@codeible.com
+
 
 # GPT
 
